@@ -5,7 +5,7 @@
 
 - Incluye un párrafo ``<p>``ontando por qué estás interesado en el desarrollo web.
 
-- Agrega una lista ordenada con 3 metas personales para este curso.
+- Agrega una lista ordenada con 3 metas personales para este modulo.
 
 - Agrega una lista desordenada con tus 5 páginas web favoritas.
 

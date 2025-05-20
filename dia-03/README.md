@@ -1,5 +1,6 @@
 ## 📅 Día 3: Multimedia
--Agrega un video local o de YouTube usando ``<video>`` o ``<iframe>``.
+
+- Agrega un video local o de YouTube usando ``<video>`` o ``<iframe>``.
 
 - Agrega un audio (música o efecto de sonido) con ``<audio>`` y controles.
 

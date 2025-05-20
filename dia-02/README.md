@@ -1,4 +1,5 @@
 ## 📅 Día 2: Semántica y estructura
+
 - Reestructura el documento del Día 1 usando etiquetas semánticas: ``<header>``, ``<nav>``, ``<main>``, ``<section>``, ``<article>``, ``<footer>``.
 
 - Agrega un nuevo ``<section>`` con una cita célebre usando ``<blockquote>`` y su fuente con ``<cite>``.
